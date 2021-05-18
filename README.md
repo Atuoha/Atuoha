@@ -3,7 +3,7 @@ an ongoing developer and writer at  [Atutechs](https://bit.ly/atutechs) who beli
 
 
 
-<i>Follow me:</i><br>
+<i>Where to find me:</i><br>
 
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/atuoha_anthony)
