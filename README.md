@@ -1,9 +1,9 @@
 ### Hi there, Am Atuoha Anthony 👋
-an ongoing developer and writer at  [Atutechs](https://bit.ly/atutechs) who believes in seeking possibilities through programming and writing.
+an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who believes in seeking possibilities through programming and writing.
 
 
 
-<i>Where to find me:</i><br>
+<i>Social Connects:</i><br>
 
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/atuoha_anthony)
@@ -68,11 +68,6 @@ an ongoing developer and writer at  [Atutechs](https://bit.ly/atutechs) who beli
 
 <br/>
 
-[website]: https://bit.ly/atutechs/
-[twitter]: https://twitter.com/atuoha_anthony
-[Facebook]: https://facebook.com/atuoha.tony
-[instagram]: https://www.instagram.com/atuoha_anthony/
-[linkedin]: https://www.linkedin.com/in/atuoha_anthony/
 
 
 
