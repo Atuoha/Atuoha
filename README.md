@@ -17,9 +17,9 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 - 👯 Strategic Good Team Player
 - 💬 Open to ideas and insights
 - 📉 Innovative and Creative
-- 😄 I also write articles and expressions for publications facebook.com/iwrite247.com
-- 📫 bit.ly/atuohaa: go-lite portfolio
-- 🎈 For Project Handling: bit.ly/atutechs
+- 😄 I also write articles and expressions for publications <a target="_blank" href="facebook.com/iwrite247.com"></a>
+- 📫 <a target="_blank" href="bit.ly/atuohaa"></a>: go-lite portfolio
+- 🎈 For Project Handling: <a target="_blank" href="bit.ly/atutechs"></a>
 - ⚡ Let's collabo 😃
 
 
