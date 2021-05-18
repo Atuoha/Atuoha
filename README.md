@@ -65,6 +65,9 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=Livestream)](https://github.com/Atuoha/liveStream)
 ![Atuoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atuoha)](https://github.com/Atuoha/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=search-Engine)](https://github.com/Atuoha/search-Engine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=mern_socialx)](https://github.com/Atuoha/mern_socialx)
+
 
 
 
