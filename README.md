@@ -1,8 +1,7 @@
-<img align=”center” src="https://i.imgur.com/pUudWKT.jpg">
+<p align="center"><img src="https://i.imgur.com/pUudWKT.jpg"></p>
 <br>
 
 ### Hi there, Am Atuoha Anthony 👋
-
 an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who believes in seeking possibilities through programming and writing.
 
 
