@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/pUudWKT.jpg">
+<div align=”center”><img src="https://i.imgur.com/pUudWKT.jpg"></div>
 <br>
 
 ### Hi there, Am Atuoha Anthony 👋
