@@ -1,4 +1,4 @@
-[<img src="https://scontent.flos3-2.fna.fbcdn.net/v/t1.6435-9/p960x960/83192116_1429268580582610_8526674117481463808_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=e3f864&_nc_ohc=jllffE1YL7AAX_-GCu9&_nc_ht=scontent.flos3-2.fna&tp=6&oh=f6ef5d9ec102b6794a18e37c1e6ad14d&oe=60CA518D">]
+[<img src="https://ibb.co/7R21fFr">]
 <br>
 ### Hi there, Am Atuoha Anthony 👋
 an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who believes in seeking possibilities through programming and writing.
