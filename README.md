@@ -1,4 +1,4 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="hIblfab"><a href="https://imgur.com/hIblfab">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[img]https://i.imgur.com/hIblfab.jpg[/img]
 <br>
 ### Hi there, Am Atuoha Anthony 👋
 an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who believes in seeking possibilities through programming and writing.
