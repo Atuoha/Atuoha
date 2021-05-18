@@ -69,6 +69,8 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=mern_socialx)](https://github.com/Atuoha/mern_socialx)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=mern_campaign)](https://github.com/Atuoha/mern_campaign)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=nodetaxify)](https://github.com/Atuoha/nodetaxify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=php_sketchy)](https://github.com/Atuoha/php_sketchy)
+
 
 
 
