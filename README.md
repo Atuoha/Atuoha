@@ -1,4 +1,4 @@
-[img]https://i.imgur.com/hIblfab.jpg[/img]
+[<img src="https://i.imgur.com/hIblfab.jpg">]
 <br>
 ### Hi there, Am Atuoha Anthony 👋
 an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who believes in seeking possibilities through programming and writing.
