@@ -1,8 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/pUudWKT.jpg"></p>
-<br>
-<p align="center">
+
 ### Hi there, Am Atuoha Anthony 👋
-</p>
 an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who believes in seeking possibilities through programming and writing.
 
 
