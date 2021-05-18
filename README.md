@@ -1,8 +1,8 @@
 ### Hi there, Am Atuoha Anthony 👋
 an ongoing developer and writer who believes in seeking possibilities through programming and writing.
 
-I use:
-HTML/CSS, PHP, LARAVEL, NODEJS, REACT, REACT NATIVE, ELECTRON, VISUAL BASIC.NET, AJAX, VANILLA JAVASCRIPT AND ....
+Using:
+HTML/CSS, PHP, LARAVEL, NODEJS, REACT, REACT NATIVE, AJAX, VANILLA JAVASCRIPT, ELECTRON, VISUAL BASIC.NET, SQL, SQLI, POSTGRESQL, MONGODB AND....
 
 - 🥇 Associate Developer with 3+ Years Experience
 - 🎨 Open to collaborations
@@ -13,6 +13,6 @@ HTML/CSS, PHP, LARAVEL, NODEJS, REACT, REACT NATIVE, ELECTRON, VISUAL BASIC.NET,
 - 😄 I also write articles and expressions for publications
 - 📫 bit.ly/atuohaa: go-lite portfolio
 - 🎈 For Project Handling: bit.ly/atutechs
-- ⚡ Let's collabo
+- ⚡ Let's collabo 😃
 
 
