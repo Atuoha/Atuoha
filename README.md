@@ -62,7 +62,7 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 ---
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide_border=true) -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Atuoha)](https://github.com/Atuoha/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=Livestream)](https://github.com/Atuoha/liveStream)
 ![Atuoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atuoha)](https://github.com/Atuoha/github-readme-stats)
 
