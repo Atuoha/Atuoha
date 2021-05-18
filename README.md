@@ -2,7 +2,7 @@
 an ongoing developer and writer who believes in seeking possibilities through programming and writing.
 
 I use:
-📚 HTML/CSS, PHP, LARAVEL, NODEJS, REACT, REACT NATIVE, ELECTRON, VISUAL BASIC.NET, AJAX, VANILLA JAVASCRIPT AND ....
+HTML/CSS, PHP, LARAVEL, NODEJS, REACT, REACT NATIVE, ELECTRON, VISUAL BASIC.NET, AJAX, VANILLA JAVASCRIPT AND ....
 
 - 🥇 Associate Developer with 3+ Years Experience
 - 🎨 Open to collaborations
