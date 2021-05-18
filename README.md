@@ -1,7 +1,5 @@
-### Hi there 👋
-
-
-** Am Atuoha Anthony**, an ongoing developer and writer who believes in seeking possibilities through programming and writing.
+### Hi there, Am Atuoha Anthony 👋
+an ongoing developer and writer who believes in seeking possibilities through programming and writing.
 
 I use:
 📚 HTML/CSS, PHP, LARAVEL, NODEJS, REACT, REACT NATIVE, ELECTRON, VISUAL BASIC.NET, AJAX, VANILLA JAVASCRIPT AND ....
