@@ -63,7 +63,7 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide_border=true) -->
 ![Atuoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&theme=dracula&hide=contribs,prs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=github-readme-stats)](https://github.com/Atuoha/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=github-readme-stats)](https://github.com/Atuoha/nodetaxify-readme-stats)
 
 
 
