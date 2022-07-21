@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/pUudWKT.jpg"></p>
-<h3 align="center"><b>Welcome To My Opensource Github Account 🚧✨❤️<b><h3>
+<h3 align="center"><b>Welcome To My Opensource Github Account 🚧✨❤️</b><h3>
 
 ### Hi there, Am Atuoha Anthony 👋
 an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who believes in seeking possibilities through programming and writing.
