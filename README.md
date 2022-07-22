@@ -29,7 +29,7 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 - 📫 <a target="_blank" href="https://bit.ly/atuohaa">go-lite Porfolio</a>
 - 🎈 <a target="_blank" href="https://bit.ly/atutechs">For Project Handling</a>
 - ⚡ Let's collabo 😃
- <p align="center"><img width="150" src="https://cliply.co/wp-content/uploads/2019/03/371903161_BLINKING_EYE_400px.gif" style="border-radius:50%"></p>
+ <p align="center"><img width="150" src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" style="border-radius:50%"></p>
 
 ---
 
@@ -71,11 +71,11 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 ![Atuoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atuoha)](https://github.com/Atuoha/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=Livestream)](https://github.com/Atuoha/liveStream)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=search-Engine)](https://github.com/Atuoha/search-Engine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=search-Engine)](https://github.com/Atuoha/prodAssure)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=mern_socialx)](https://github.com/Atuoha/mern_socialx)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=mern_campaign)](https://github.com/Atuoha/mern_campaign)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=mern_campaign)](https://github.com/Atuoha/shoppie)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=nodetaxify)](https://github.com/Atuoha/nodetaxify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=php_sketchy)](https://github.com/Atuoha/php_sketchy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=php_sketchy)](https://github.com/Atuoha/uconverse)
 
 
 
