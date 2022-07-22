@@ -16,7 +16,7 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://bit.ly/atuohaa/)
 
 ---
-  <p align="center"><img src="https://cliply.co/wp-content/uploads/2019/03/371903161_BLINKING_EYE_400px.gif"></p>
+  <p align="center"><img width="150" src="https://cliply.co/wp-content/uploads/2019/03/371903161_BLINKING_EYE_400px.gif"></p>
  
 
 - 🥇 Associate Developer with 3+ Years Experience
