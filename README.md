@@ -1,5 +1,5 @@
 <h2 align="center">Welcome To My Opensource Github Account 🚧✨❤️<h2>
-<p align="center"><img src="https://i.imgur.com/pUudWKT.jpg"></p>
+<p align="center"><img src="https://i.imgur.com/pUudWKT.jpg" style="border-radius:50%"></p>
 
   
   
@@ -29,7 +29,7 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 - 📫 <a target="_blank" href="https://bit.ly/atuohaa">go-lite Porfolio</a>
 - 🎈 <a target="_blank" href="https://bit.ly/atutechs">For Project Handling</a>
 - ⚡ Let's collabo 😃
- <p><img width="100" src="https://cliply.co/wp-content/uploads/2019/03/371903161_BLINKING_EYE_400px.gif"></p>
+ <p align="center"><img width="150" src="https://cliply.co/wp-content/uploads/2019/03/371903161_BLINKING_EYE_400px.gif" style="border-radius:50%"></p>
 
 ---
 
