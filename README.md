@@ -4,7 +4,7 @@
   
   
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4976&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Atuoha+Anthony)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=4976&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Atuoha+Anthony)](https://git.io/typing-svg)
 
 
 an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who believes in seeking possibilities through programming and writing.
