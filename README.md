@@ -72,12 +72,12 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide_border=true) -->
 ![Atuoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atuoha)](https://github.com/Atuoha/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=Livestream)](https://github.com/Atuoha/liveStream)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=Livestream)](https://github.com/Atuoha/diaree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=search-Engine)](https://github.com/Atuoha/prodAssure)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=mern_socialx)](https://github.com/Atuoha/mern_socialx)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=mern_campaign)](https://github.com/Atuoha/shoppie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=mern_campaign)](https://github.com/Atuoha/locations_sharer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=nodetaxify)](https://github.com/Atuoha/nodetaxify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=php_sketchy)](https://github.com/Atuoha/uconverse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=php_sketchy)](https://github.com/Atuoha/tour_360)
 
 
 
