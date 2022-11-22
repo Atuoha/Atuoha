@@ -79,9 +79,7 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=locations_sharer)](https://github.com/Atuoha/locations_sharer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=nodetaxify)](https://github.com/Atuoha/nodetaxify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=tour_360)](https://github.com/Atuoha/tour_360)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=apartment_finder)](https://github.com/Atuoha/apartment_finder)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=jobly)](https://github.com/Atuoha/jobly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=nodeRatingx)](https://github.com/Atuoha/nodeRatingx)
+
 
 
 
