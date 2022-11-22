@@ -71,7 +71,14 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide_border=true) -->
 
-
+![Atuoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atuoha)](https://github.com/Atuoha/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=diaree)](https://github.com/Atuoha/diaree)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=prodAssure)](https://github.com/Atuoha/prodAssure)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=mern_socialx)](https://github.com/Atuoha/mern_socialx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=locations_sharer)](https://github.com/Atuoha/locations_sharer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=nodetaxify)](https://github.com/Atuoha/nodetaxify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=tour_360)](https://github.com/Atuoha/tour_360)
 
 
 
