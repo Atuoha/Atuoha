@@ -70,7 +70,6 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 ---
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide_border=true) -->
-<!--
 ![Atuoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atuoha)](https://github.com/Atuoha/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=diaree)](https://github.com/Atuoha/diaree)
@@ -83,7 +82,6 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=jobly)](https://github.com/Atuoha/jobly)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=nodeRatingx)](https://github.com/Atuoha/nodeRatingx)
 
--->
 
 
 
