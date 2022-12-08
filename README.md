@@ -1,5 +1,5 @@
 <h2 align="center">Welcome To My Opensource Github Account 🚧✨❤️<h2>
-<p align="center"><img src="https://i.imgur.com/pUudWKT.jpg" style="border-radius:10%"></p>
+<p align="center"><img src="https://i.imgur.com/pUudWKT.jpg" style="border-radius:5%"></p>
 
   
   
