@@ -25,9 +25,7 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 - 👯 Strategic Good Team Player
 - 💬 Open to ideas and insights
 - 📉 Innovative and Creative
-- 📫 <a target="_blank" href="https://bit.ly/atuohaa">go-lite Porfolio</a>
 - ⚡ Let's collabo 😃
-<!--  <p align="center"><img width="150" src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" style="border-radius:50%"></p> -->
 
 ---
 
