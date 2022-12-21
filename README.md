@@ -67,10 +67,10 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 ### I also prefer	<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 
 ---
-<!--
+
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide_border=true) -->
-![Atuoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide=contribs,prs)
+<!-- ![Atuoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atuoha)](https://github.com/Atuoha/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=diaree)](https://github.com/Atuoha/diaree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=prodAssure)](https://github.com/Atuoha/prodAssure)
@@ -80,10 +80,10 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=tour_360)](https://github.com/Atuoha/tour_360)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=apartment_finder)](https://github.com/Atuoha/apartment_finder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=jobly)](https://github.com/Atuoha/jobly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=nodeRatingx)](https://github.com/Atuoha/nodeRatingx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=nodeRatingx)](https://github.com/Atuoha/nodeRatingx) -->
 
 
--->
+
 
 ---
 
