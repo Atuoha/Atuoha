@@ -20,15 +20,12 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
  
  
 
-- 🥇 Associate Developer with 4+ Years Experience
+- 🥇 Associate Developer with 4+ Years Professional Experience
 - 🎨 Open to collaborations
-- 💻 With a zeal to contribute with good returns
 - 👯 Strategic Good Team Player
 - 💬 Open to ideas and insights
 - 📉 Innovative and Creative
-- 😄 <a target="_blank" href="https://facebook.com/iwrite247.com">I also write articles and expressions for publications </a>
 - 📫 <a target="_blank" href="https://bit.ly/atuohaa">go-lite Porfolio</a>
-- 🎈 <a target="_blank" href="https://bit.ly/atutechs">For Project Handling</a>
 - ⚡ Let's collabo 😃
 <!--  <p align="center"><img width="150" src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" style="border-radius:50%"></p> -->
 
