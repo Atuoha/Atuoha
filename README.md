@@ -67,6 +67,7 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 ### I also prefer	<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 
 ---
+<!--
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide_border=true) -->
 ![Atuoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atuoha&show_icons=true&hide=contribs,prs)
@@ -82,7 +83,7 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Atuoha&repo=nodeRatingx)](https://github.com/Atuoha/nodeRatingx)
 
 
-
+-->
 
 ---
 
