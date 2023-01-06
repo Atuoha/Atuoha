@@ -7,7 +7,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=4976&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Atuoha+Anthony)](https://git.io/typing-svg)
 
 
-an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who believes in seeking possibilities through programming and writing.
+an ongoing developer and writer at  [Atutechs Corp](https://www.instagram.com/atutechscorp/) who believes in seeking possibilities through programming and writing.
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/atuohaa)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/atuoha-anthony/)
@@ -18,7 +18,7 @@ an ongoing developer and writer at  [Atutechs Corp](https://bit.ly/atutechs) who
  
  
 
-- 🥇 Associate Developer with 4+ Years Professional Experience
+- 🥇 Associate Developer with 5+ Years Professional Experience
 - 🎨 Open to collaborations
 - 👯 Strategic Good Team Player
 - 💬 Open to ideas and insights
