@@ -1,5 +1,5 @@
 <h2 align="center">Code-Warehouse 🚧✨<h2>
-<p align="center"><img src="https://i.imgur.com/pUudWKT.jpg" style="border-radius:5%" width="200"></p>
+<p align="center"><img src="https://i.imgur.com/pUudWKT.jpg" style="border-radius:5%" width="400"></p>
 
   
   
