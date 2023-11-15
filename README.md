@@ -9,7 +9,7 @@
 
 Tony is an experienced Software Engineer with 5+ years of experience in the Computer Software Industry. He specializes in Flutter/Dart with a background in web technologies. Tony has a strong track record of designing, building, and deploying software for Android, iOS, Web, and other platforms.
 
-He has collaborated with cross-functional teams to deliver high-quality products. Tony is well-versed in various programming languages and frameworks and is focused on Flutter/Dart. His philosophy centers on creating innovative and cost-effective software solutions beyond just building software.
+He has collaborated with cross-functional teams to deliver high-quality products. Tony is well-versed in various programming languages and frameworks and is focused on Flutter/Dart. His philosophy centers on creating innovative and cost-effective software solutions that goes beyond just building software.
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/atuohaa)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/atuoha-anthony/)
