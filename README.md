@@ -7,7 +7,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=4976&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Atuoha+Anthony)](https://git.io/typing-svg)
 
 
-Tony is an experienced Software Engineer with years of experience in the Computer Software Industry. He specializes in Flutter/Dart with a background in web technologies. Tony has a strong track record of designing, building, and deploying software for Android, iOS, Web, and other platforms.
+Tony is an experienced Software Engineer with years of experience in the Computer Software Industry. He specializes in Flutter/Dart with a background in web technologies. Tony has a strong track record of designing, building and deploying software for Android, iOS, Web, and other platforms.
 
 He has collaborated with cross-functional teams to deliver high-quality products. Tony is well-versed in various programming languages and frameworks and is focused on Flutter/Dart. His philosophy centers on creating innovative and cost-effective software solutions that go beyond just building software.
 
@@ -19,7 +19,7 @@ He has collaborated with cross-functional teams to deliver high-quality products
  
  
 
-- 🥇 Associate Developer with 5+ Years Professional Experience
+- 🥇 Associate Developer with 6+ Years Professional Experience
 - 🎨 Open to collaborations
 - 👯 Strategic Good Team Player
 - 💬 Open to ideas and insights
