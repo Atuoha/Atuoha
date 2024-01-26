@@ -19,7 +19,7 @@ Proven history of successful collaboration with cross-functional teams to delive
  
  
 
-- 🥇 Associate Developer with 6+ Years Professional Experience
+- 🥇 Experienced SWE
 - 🎨 Open to collaborations
 - 👯 Strategic Good Team Player
 - 💬 Open to ideas and insights
