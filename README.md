@@ -7,9 +7,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=4976&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Atuoha+Anthony)](https://git.io/typing-svg)
 
 
-Experienced Software Engineer specializing in <b>Flutter/Dart</b>, with a comprehensive background in web technologies. Demonstrated expertise in the design, development, and deployment of software across various platforms, including Android, iOS, Web, and other platforms.
-
-Proven history of successful collaboration with cross-functional teams to deliver top-tier products using Flutter and related technologies. Adheres to a philosophy centered on creating scalable and efficient software solutions that transcend mere code development.
+Experienced Software Engineer specializing in Flutter/Dart with a background in web technologies and a proven track record in designing, building, and deploying software for Android, iOS, Web, and other platforms. Adept at collaborating with cross-functional teams to deliver high-quality and scalable products.
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/atuohaa)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/atuoha-anthony/)
