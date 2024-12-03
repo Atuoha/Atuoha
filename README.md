@@ -9,7 +9,7 @@
 
 Mobile Software Engineer specializing in Flutter/Dart, Kotlin (Jetpack Compose), Swift & SwiftUI, with a comprehensive background in web technologies. Skilled in designing, developing, and deploying software for Android, iOS, Web, and other platforms. Adept at collaborating effectively with cross-functional teams to create high-quality, scalable products.
 
-[<img src="https://img.shields.io/badge/x%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white">](https://twitter.com/atuohaa)
+[<img src="https://img.shields.io/badge/twitter%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white">](https://twitter.com/atuohaa)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/atuoha-anthony/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=world&logoColor=white">](https://atuoha.github.io/)
 
