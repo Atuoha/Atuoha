@@ -6,7 +6,7 @@
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=4976&pause=1000&color=FFFFFF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Atuoha+Anthony)](https://git.io/typing-svg)
 
-Atuoha Anthony is a Senior Mobile Software Engineer with a track record of building scalable, high-performance applications across various platforms, including Android, iOS, web, and others, primarily using Flutter, alongside Kotlin and Swift, and leveraging AI.
+Atuoha Anthony is a Senior Mobile Software Engineer with a track record of building scalable, high-performance applications across various platforms, including Android, iOS, web, and others, primarily using Flutter & Dart, alongside Kotlin and Swift, and leveraging AI.
 
 [<img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white">](https://twitter.com/atuohaa)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/atuoha-anthony/)
